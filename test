@@ -1,0 +1,11 @@
+[33mcommit 0d7ed8df3e7dbdcd27bb0287d38d88bf5b8d66fb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: surasak s <au_jang@hotmail.com>
+Date:   Mon Oct 6 22:51:32 2025 +0700
+
+    Add line 2 to greeting.txt
+
+[33mcommit 03a93b54579817165a27003be359ebd6b1d2bda6[m
+Author: surasak s <au_jang@hotmail.com>
+Date:   Mon Oct 6 22:42:59 2025 +0700
+
+    Initial commit
